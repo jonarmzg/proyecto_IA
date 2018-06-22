@@ -1,0 +1,12 @@
+Proyecto 1.  Aplicación de clasificación de imágenes con IA
+
+Creará una aplicación que resuelva el problema de la clasificación de Iris.
+
+Imagine que es un botánico que busca una manera automática de categorizar cada flor de iris que encuentre. El aprendizaje automático proporciona muchos algoritmos para clasificar estadísticamente las flores. Por ejemplo, un sofisticado programa de aprendizaje automático podría clasificar flores en base a fotografías. Nuestras ambiciones son más modestas: vamos a clasificar las flores de iris en función de las medidas de longitud y ancho de sus sépalos y pétalos.
+
+El género Iris implica alrededor de 300 especies, pero nuestro programa clasificará solo las siguientes tres:
+
+Iris setosa
+Iris virginica
+Iris versicolor
+
